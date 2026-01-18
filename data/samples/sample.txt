@@ -1,0 +1,2 @@
+This is a sample document used for the Step-1 demo.
+It includes a few sentences so chunking and retrieval work.
